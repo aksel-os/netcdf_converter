@@ -1,5 +1,15 @@
 This is a project aimed at converting specific scientific data files from csv to NETCDF-CF files
 
+* Installation
+
+1. Clone repository
 #+begin_src sh
-pip install -r requirements.txt
+  git clone https://github.com/aksel-os/netcdf_converter.git
+  cd netcdf_converter
+#+end_src
+
+
+  2. Install dependencies
+#+begin_src sh
+  pip install -r requirements.txt
 #+end_src
