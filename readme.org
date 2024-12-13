@@ -13,3 +13,7 @@ This is a project aimed at converting specific scientific data files from csv to
 #+begin_src sh
   pip install -r requirements.txt
 #+end_src
+
+
+* Citations
+Marsden, L. (2024, April 19). NetCDF in Python - from beginner to pro. Zenodo. https://doi.org/10.5281/zenodo.10997447
