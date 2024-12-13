@@ -1,0 +1,5 @@
+This is a project aimed at converting specific scientific data files from csv to NETCDF-CF files
+
+#+begin_src sh
+pip install -r requirements.txt
+#+end_src
