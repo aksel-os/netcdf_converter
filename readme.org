@@ -1,4 +1,4 @@
-This is a project aimed at converting specific scientific data files from csv to NETCDF-CF files
+This is a project aimed at converting specific scientific data files from TSV to NETCDF-CF files
 
 * Installation
 
