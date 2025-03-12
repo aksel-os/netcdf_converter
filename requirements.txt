@@ -1,2 +1,3 @@
 pandas
+netcdf4
 xarray
